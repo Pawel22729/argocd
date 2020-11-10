@@ -1,0 +1,8 @@
+# LOGIN TO CLI
+argocd login <ARGOCD_SERVER>
+
+# UPDATE PASSWORD
+argocd account update-password
+
+# REGISTER CLUSTER
+argocd cluster add minikube
